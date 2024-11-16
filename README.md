@@ -21,9 +21,4 @@ To use the notebooks, follow these steps:
 
 4. **Run the Notebooks**:
    - Open the notebooks in SageMaker.
-   - The notebooks are already set up and ready to run. You just need to follow the instructions in the notebook to start training and testing the YOLO models.
-
-## Notes
-
-- **Version 9**: The YOLO version 9 notebooks include options for both single and multi-GPU setups. Make sure to choose the appropriate notebook based on your hardware configuration.
-- **Configuration Files**: The configuration files should be updated to match your specific dataset paths and class labels.
+   - The notebooks are already set up and ready to run. You just need to follow the instructions in the notebook to start training and testing the YOLO models
