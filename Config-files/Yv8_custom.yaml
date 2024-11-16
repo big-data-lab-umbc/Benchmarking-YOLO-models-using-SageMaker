@@ -1,0 +1,6 @@
+train: /home/ec2-user/SageMaker/data/train
+val: /home/ec2-user/SageMaker/data/val
+test: /home/ec2-user/SageMaker/data/test # test images (optional)
+
+# Classes
+names: ["eddy","non-eddy"]
